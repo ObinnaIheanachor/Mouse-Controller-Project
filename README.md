@@ -55,7 +55,8 @@ python main.py -fd <Path of xml file of face detection model>
 
 Directory Structure of the project
 
-computer pointer controller 
+computer pointer controller
+
           |-- README.md
           |-- bin
                 |-- demo.mp4
