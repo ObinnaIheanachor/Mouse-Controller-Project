@@ -143,3 +143,6 @@ If we go from FP32 to FP16, accuracy decreases due to lower precision and GPU ta
 ### Edge Cases
 - Multiple People Scenario: If we encounter multiple people in the video frame, it will always use and give results one face even though multiple people detected,
 - No Face Detection: it will skip the frame and inform the user
+
+## License
+The contents of this repository are covered under the [MIT icense](https://github.com/ObinnaIheanachor/Smart-Queue-Monitoring-System/blob/master/LICENSE)
